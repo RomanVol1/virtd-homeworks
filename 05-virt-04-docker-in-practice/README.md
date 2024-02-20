@@ -73,15 +73,15 @@
 Скачайте docker образ ```hashicorp/terraform:latest``` и скопируйте бинарный файл ```/bin/terraform``` на свою локальную машину, используя dive и docker save.
 Предоставьте скриншоты  действий .
 
-[task6.1](https://github.com/RomanVol1/virtd-homeworks/blob/shvirtd-1/jpg/hw5_task6.1.jpg)
+![task6.1](https://github.com/RomanVol1/virtd-homeworks/blob/shvirtd-1/jpg/hw5_task6.1.jpg)
 
-[task6.2](https://github.com/RomanVol1/virtd-homeworks/blob/shvirtd-1/jpg/hw5_task6.2.jpg)
+![task6.2](https://github.com/RomanVol1/virtd-homeworks/blob/shvirtd-1/jpg/hw5_task6.2.jpg)
 
-[task6.3](https://github.com/RomanVol1/virtd-homeworks/blob/shvirtd-1/jpg/hw5_task6.3.jpg)
+![task6.3](https://github.com/RomanVol1/virtd-homeworks/blob/shvirtd-1/jpg/hw5_task6.3.jpg)
 
-[task6.4](https://github.com/RomanVol1/virtd-homeworks/blob/shvirtd-1/jpg/hw5_task6.4.jpg)
+![task6.4](https://github.com/RomanVol1/virtd-homeworks/blob/shvirtd-1/jpg/hw5_task6.4.jpg)
 
-[task6.5](https://github.com/RomanVol1/virtd-homeworks/blob/shvirtd-1/jpg/hw5_task6.5.jpg)
+![task6.5](https://github.com/RomanVol1/virtd-homeworks/blob/shvirtd-1/jpg/hw5_task6.5.jpg)
 
 ## Задача 6.1 (*)
 Добейтесь аналогичного результата, используя познания  CMD, ENTRYPOINT и docker cp.  
