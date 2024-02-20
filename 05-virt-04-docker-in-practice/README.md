@@ -83,6 +83,8 @@
 
 ![task6.5](https://github.com/RomanVol1/virtd-homeworks/blob/shvirtd-1/jpg/hw5_task6.5.jpg)
 
+![task6.6](https://github.com/RomanVol1/virtd-homeworks/blob/shvirtd-1/jpg/task6.6.jpg)
+
 ## Задача 6.1 (*)
 Добейтесь аналогичного результата, используя познания  CMD, ENTRYPOINT и docker cp.  
 Предоставьте скриншоты  действий .
