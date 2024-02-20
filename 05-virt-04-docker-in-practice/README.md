@@ -44,6 +44,9 @@
 
 6. Остановите проект. В качестве ответа приложите скриншот sql-запроса.
 
+![task3](https://github.com/RomanVol1/virtd-homeworks/blob/shvirtd-1/jpg/hw5_task3.jpg)
+
+
 ## Задача 4
 1. Запустите в Yandex Cloud ВМ (вам хватит 2 Гб Ram).
 2. Подключитесь к Вм по ssh и установите docker.
@@ -51,6 +54,14 @@
 4. Зайдите на сайт проверки http подключений, например(или аналогичный): ```https://check-host.net/check-http``` и запустите проверку вашего сервиса ```http://<внешний_IP-адрес_вашей_ВМ>:5000```.
 5. (Необязательная часть) Дополнительно настройте remote ssh context к вашему серверу. Отобразите список контекстов и результат удаленного выполнения ```docker ps -a```
 6. В качестве ответа повторите  sql-запрос и приложите скриншот с данного сервера, bash-скрипт и ссылку на fork-репозиторий.
+
+[fork-репозиторий]([https://skillbox.ru/media/](https://github.com/RomanVol1/hw4))
+
+![task4.1](https://github.com/RomanVol1/virtd-homeworks/blob/shvirtd-1/jpg/hw5_task4_1.jpg)
+
+![task4.2](https://github.com/RomanVol1/virtd-homeworks/blob/shvirtd-1/jpg/hw5_task4_2.jpg)
+
+
 
 ## Задача 5 (*)
 1. Напишите и задеплойте на вашу облачную ВМ bash скрипт, который произведет резервное копирование БД mysql в директорию "/opt/backup" с помощью запуска в сети "backend" контейнера из образа ```schnitzler/mysqldump``` при помощи ```docker run ...``` команды. Подсказка: "документация образа."
@@ -61,6 +72,16 @@
 ## Задача 6
 Скачайте docker образ ```hashicorp/terraform:latest``` и скопируйте бинарный файл ```/bin/terraform``` на свою локальную машину, используя dive и docker save.
 Предоставьте скриншоты  действий .
+
+[task6.1](https://github.com/RomanVol1/virtd-homeworks/blob/shvirtd-1/jpg/hw5_task6.1.jpg)
+
+[task6.2](https://github.com/RomanVol1/virtd-homeworks/blob/shvirtd-1/jpg/hw5_task6.2.jpg)
+
+[task6.3](https://github.com/RomanVol1/virtd-homeworks/blob/shvirtd-1/jpg/hw5_task6.3.jpg)
+
+[task6.4](https://github.com/RomanVol1/virtd-homeworks/blob/shvirtd-1/jpg/hw5_task6.4.jpg)
+
+[task6.5](https://github.com/RomanVol1/virtd-homeworks/blob/shvirtd-1/jpg/hw5_task6.5.jpg)
 
 ## Задача 6.1 (*)
 Добейтесь аналогичного результата, используя познания  CMD, ENTRYPOINT и docker cp.  
